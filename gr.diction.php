@@ -2,44 +2,6 @@
 
 $diction['gr'] =
 [
-    'metric' =>
-    [
-        '' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Μετρω',
-        ],
-        'bshp' =>
-        [
-            'order' => 'ASC',
-            'word' => 'Σωμα',
-        ],
-        'fshp' =>
-        [
-            'order' => 'ASC',
-            'word' => 'Ποδη',
-        ],
-        'height' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Υψο',
-        ],
-        'weight' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Βαρο',
-        ],
-        'size' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Μεγαλο',
-        ],
-        'arousal' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Ερωτο',
-        ],
-    ],
     'digital' =>
     [
         '0',
