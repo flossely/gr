@@ -9,10 +9,22 @@ $metro['gr'] =
         "fshp" => "Ποδη",
         "birth" => "Γεννη",
         "country" => "Χωρα",
+        "quantity" => "Συνολο",
         "height" => "Υψο",
         "weight" => "Βαρο",
         "size" => "Μεγαλο",
         "arousal" => "Ερωτο",
+    ],
+    "unit" =>
+    [
+        "quantity" => "",
+        "height" => "m",
+        "weight" => "kg",
+        "size" => "EU",
+    ],
+    "round" =>
+    [
+        "quantity" => 3,
     ],
     "bshp" =>
     [
