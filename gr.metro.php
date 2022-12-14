@@ -17,7 +17,7 @@ $metro['gr'] =
     ],
     "unit" =>
     [
-        "quantity" => "",
+        "quantity" => "°",
         "height" => "m",
         "weight" => "kg",
         "size" => "EU",
