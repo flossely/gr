@@ -13,7 +13,6 @@ $metro['gr'] =
         "height" => "Υψο",
         "weight" => "Βαρο",
         "size" => "Μεγαλο",
-        "arousal" => "Ερωτο",
     ],
     "unit" =>
     [
@@ -21,6 +20,20 @@ $metro['gr'] =
         "height" => "m",
         "weight" => "kg",
         "size" => "EU",
+    ],
+    "side" =>
+    [
+        "quantity" => "right",
+        "height" => "right",
+        "weight" => "right",
+        "size" => "right",
+    ],
+    "space" =>
+    [
+        "quantity" => "",
+        "height" => " ",
+        "weight" => " ",
+        "size" => " ",
     ],
     "round" =>
     [
