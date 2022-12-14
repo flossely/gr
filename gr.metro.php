@@ -8,6 +8,7 @@ $metro['gr'] =
         "bshp" => "Σωμα",
         "fshp" => "Ποδη",
         "birth" => "Γεννη",
+        "zodiac" => "Ζωδιακο",
         "country" => "Χωρα",
         "ratio" => "Συνολο",
         "height" => "Υψο",
