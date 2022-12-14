@@ -53,7 +53,7 @@ $metro['gr'] =
     ],
     "round" =>
     [
-        "ratio" => 3,
+        "ratio" => 0,
     ],
     "bshp" =>
     [
