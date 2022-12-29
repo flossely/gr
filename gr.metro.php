@@ -10,6 +10,7 @@ $metro['gr'] =
         "birth" => "Γεννη",
         "zodiac" => "Ζωδιακο",
         "country" => "Χωρα",
+        "quote" => "Γωγικα",
         "ratio" => "Συνολο",
         "height" => "Υψο",
         "weight" => "Βαρο",
