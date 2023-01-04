@@ -129,6 +129,7 @@ $parle['gr'] =
     "term:description" => "Περιγραφ",
     "term:era" => "Επωχα",
     "term:era:pl" => "Επωχη",
+    "term:fallback" => "Υποχωρων",
     "term:file" => "Γραφ",
     "term:filename" => "Γραφονυμ",
     "term:font" => "Τυπωγραφ",
