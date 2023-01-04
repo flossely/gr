@@ -130,6 +130,7 @@ $parle['gr'] =
     "term:era" => "Επωχα",
     "term:era:pl" => "Επωχη",
     "term:fallback" => "Υποχωρων",
+    "term:monospace" => "Μονοχωρων",
     "term:file" => "Γραφ",
     "term:filename" => "Γραφονυμ",
     "term:font" => "Τυπωγραφ",
